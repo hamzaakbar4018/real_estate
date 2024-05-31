@@ -1,1 +1,1 @@
-Website created using html,css and php.This web application allows users to save and view contact information, leveraging Firebase as the database for secure and real-time data management.
+Website created using html,css and php.This website is designed to manage user and admin privileges, with a specific focus on property management. The platform offers distinct functionalities for admins and users, ensuring a secure and organized approach to handling property details.
